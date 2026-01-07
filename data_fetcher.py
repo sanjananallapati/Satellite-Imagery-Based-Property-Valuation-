@@ -29,7 +29,7 @@ OUTPUT_DIR = "mapbox_images"
 IMAGE_SIZE = "512x512"
 ZOOM = 18
 
-MAPBOX_TOKEN = "pk.eyJ1IjoicnV0aHdpazIxIiwiYSI6ImNtank1OGlpdzFjOWozZXM5M3Y2MG4yc3gifQ.Kk0FofxKqDRJMTCYQqEPJQ"
+MAPBOX_TOKEN = "enter your token"
 
 DELAY = 0.15          # seconds between requests
 MAX_RETRIES = 3
